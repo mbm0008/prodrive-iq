@@ -62,7 +62,18 @@ The current prototype includes the following features:
 - User profile  
 
 ---
+## Additional Considerations
 
+The current prototype focuses on the core user flow required for Milestone 1.  
+
+In future versions, additional pages may be included to improve the overall system, such as:
+- Workshop Details Page for viewing full service information and reviews  
+- Booking Confirmation Page after completing a reservation  
+- Profile Settings Page for managing user information  
+
+These were not included in the current prototype to keep the design focused on the main functionality.
+
+---
 ## Target Users
 - Car owners in Saudi Arabia  
 - Users looking for reliable and affordable car services  
